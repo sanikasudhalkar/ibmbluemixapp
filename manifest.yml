@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: sanika_assignment1
+  host: sanikaassignment1
+  disk_quota: 1024M
